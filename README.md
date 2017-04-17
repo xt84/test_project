@@ -86,7 +86,6 @@ CD:CA:CB:CP
 
 ```
 CREATE TABLE cadastral_data_yyyymm (
-    cdca            VARCHAR(5),
     cn              VARCHAR(17),
     reg_date        DATE,
     owner_id        VARCHAR(255),
