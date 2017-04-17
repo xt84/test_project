@@ -85,7 +85,7 @@ CD:CA:CB:CP
 ## Таблица с исходными данными
 
 ```
-CREATE TABLE cadastral_data_yyyymm (
+CREATE TABLE cadastral_data (
     cn              VARCHAR(17),
     reg_date        DATE,
     owner_id        VARCHAR(255),
